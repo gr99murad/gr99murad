@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="1000" src="https://i.ibb.co.com/q3rndpKt/Black-Modern-Vlogger-You-Tube-Banner-1.png"  />
+  <img width="1000" src="https://i.ibb.co.com/q3rndpKt/Black-Modern-Vlogger-You-Tube-Banner-1.png"  />
 </div>
 
 ###
