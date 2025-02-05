@@ -44,6 +44,7 @@
 ###
 
 <h3 align="center">🛠 Technologies/Tools </h3>
+<hr>
 
 ###
 
