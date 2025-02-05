@@ -27,7 +27,18 @@
 
 ###
 
-<p align="left">- 🔭 Working on a Library Management System for a well-renowned school, featuring book tracking, borrowing, and user-friendly UI.<br>- 🌍 Developing a Visa Management System using MERN stack (MongoDB, Express.js, React, Node.js) with visa application submission and CRUD operations.<br>- 🏋️‍♂️ Building a Fitness Training Center Platform to manage training programs and user progress.<br>- 🏆 Researching Deep Learning for Skin Cancer Classification, leveraging a dataset of 2,357 images for accurate detection.<br>- 🌐 Creating a Tech Discovery & Sharing Platform, where users can explore and share their favorite web apps, AI tools, software, and games.<br>- 🎮 Having fun with video games like PUBG, FIFA, and more! Because work-life balance matters!</p>
+<div align="left">
+  <h2>🚀 Current Activities</h2>
+
+<ul>
+  <li>📚 <strong>Working on a Library Management System</strong> for a well-renowned school, featuring book tracking, borrowing, and a user-friendly UI.</li>
+  <li>🛂 <strong>Developing a Visa Management System</strong> using the <strong>MERN stack</strong> (MongoDB, Express.js, React, Node.js) with visa application submission and <strong>CRUD operations</strong>.</li>
+  <li>🏋️‍♂️ <strong>Building a Fitness Training Center Platform</strong> to manage <strong>training programs and user progress</strong>.</li>
+  <li>🏆 <strong>Researching Deep Learning for Skin Cancer Classification</strong>, leveraging a dataset of <strong>2,357 images</strong> for <strong>accurate detection</strong>.</li>
+  <li>🌐 <strong>Creating a Tech Discovery & Sharing Platform</strong>, where users can <strong>explore and share</strong> their favorite <strong>web apps, AI tools, software, and games</strong>.</li>
+  <li>🎮 <strong>Having fun with video games</strong> like <strong>PUBG, FIFA, and more!</strong> Because <strong>work-life balance matters!</strong> 🎉</li>
+</ul>
+</div>
 
 ###
 ###
