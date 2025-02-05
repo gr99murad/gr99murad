@@ -30,6 +30,11 @@
 <p align="left">- 🔭 Working on a Library Management System for a well-renowned school, featuring book tracking, borrowing, and user-friendly UI.<br>- 🌍 Developing a Visa Management System using MERN stack (MongoDB, Express.js, React, Node.js) with visa application submission and CRUD operations.<br>- 🏋️‍♂️ Building a Fitness Training Center Platform to manage training programs and user progress.<br>- 🏆 Researching Deep Learning for Skin Cancer Classification, leveraging a dataset of 2,357 images for accurate detection.<br>- 🌐 Creating a Tech Discovery & Sharing Platform, where users can explore and share their favorite web apps, AI tools, software, and games.<br>- 🎮 Having fun with video games like PUBG, FIFA, and more! Because work-life balance matters!</p>
 
 ###
+###
+
+<h3 align="center">🛠 Technologies/Tools </h3>
+
+###
 
 <h3 align="left">🌐 Frontend Development</h3>
 
